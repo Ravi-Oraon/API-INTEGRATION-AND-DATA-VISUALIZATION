@@ -2,10 +2,10 @@
 
 ## Developer Information
 **Name:** Ravi Oraon
-**Company:** CODTECH IT SOLUTIONS  
+**Company:** CODTECH IT SOLUTIONS  PVT.LTD
 **ID:** CT04DF2368  
-**Domain:** PYTHON PROGRAMMING  
-**Duration:** 2nd june to 2nd july  
+**Domain:** PYTHON PROGRAMMING INTERNSHIP
+**Duration:** 2nd june 2025 to 2nd july  2025
 
 ---
 
@@ -84,10 +84,4 @@ To demonstrate how to integrate a public API, process the fetched data, and crea
    - Line plots are created for temperature and humidity trends using Matplotlib and Seaborn.
 
 ---
-
-## Contact
-For any questions or feedback, feel free to reach out to:  
-
-**Ravi Oraon**  
-**Company:** CODTECH IT SOLUTIONS  
-**Email:** ravioraon986@gmail.com  
+ 
